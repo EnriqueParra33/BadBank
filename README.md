@@ -2,11 +2,19 @@
 
 ## Description
 
+In this node project you will find a banking application where you can create an account, withdraw and deposit.
+
 ## Installation/Usage
 
-## Tools used
+Clone the repository then use the npm install command to install dependencies and run node index.js.
+
+## Technologies used
+
+Node, React, Express and MongoDB. 
 
 ## Feautures
+
+Some of the features you will find in this project will be security by authenticating users and you wull be able to manage your deposits and withdrawls.
 
 ## License
 
